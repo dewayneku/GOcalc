@@ -1,2 +1,2 @@
-# rustcalc
-a simple calculator built in rust and used in the command line
+# GOcalc
+A simple calculator built in GO and used in the command line.
